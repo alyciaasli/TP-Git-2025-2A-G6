@@ -4,6 +4,11 @@
 
 Enseignante et correctrice : Sarah Schlegel ([@SarahSch19](https://github.com/esgi-na-sa/TP-Git-2025))
 
+# equipes(collaborateurs)
+Mayleen San
+Kevin Hu
+Alycia Asli
+
 ## Modalités
 
 Durée : 1h30
